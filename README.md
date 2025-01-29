@@ -40,7 +40,8 @@ The algorithm tracks progress over generations by plotting:
 4. **Best Neighbor Selection**: Among non-tabu neighbors, the one with the shortest path is chosen.
 5. **Stopping Criteria**: The algorithm runs for a fixed number of iterations, updating the best solution whenever an improvement is found.
 
-Visualization
+#### Visualization
+
 The algorithm provides graphical outputs to demonstrate:
 - Initial path visualization.
 - Best path found after iterations.
